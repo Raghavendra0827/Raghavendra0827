@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 Hi everyone🙋‍♂️, my name is Raghavendra kn and I am a passionate data scientist🧑‍💻. I love working with data to uncover hidden insights and solve real-world problems. I am particularly curious about using data to improve the lives of others and make a positive impact on the world.
 
 I have always been fascinated by the power of data💪. When used correctly💡, data can help us to make better decisions, solve complex problems, and create new and innovative products and services. I am excited to be a part of the rapidly growing field of data science and I am eager to learn more about how I can use my skills to make a difference🤹.
@@ -21,4 +19,3 @@ I'm passionate about leveraging technology to make data more accessible, insight
        ✉       : raghavendrakn076@gmail.com
        📞      :+91 9353888374
        🔗      :www.raghavendraportfolio.com
--->
