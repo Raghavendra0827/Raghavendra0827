@@ -2,7 +2,6 @@
 Hi everyone🙋‍♂️, my name is Raghavendra kn and I am a passionate data scientist🧑‍💻. I love working with data to uncover hidden insights and solve real-world problems. I am particularly curious about using data to improve the lives of others and make a positive impact on the world.
 <video width="320" height="240" controls>
   <source src="[video.mp4](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogicmojo.com%2Fdata-science-introduction&psig=AOvVaw0lVNRl__bwM65RItO0Xm_W&ust=1700060784886000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDDvo7iw4IDFQAAAAAdAAAAABAh)" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 -
