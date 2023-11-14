@@ -1,8 +1,7 @@
 ### Hi there 👋
 Hi everyone🙋‍♂️, my name is Raghavendra kn and I am a passionate data scientist🧑‍💻. I love working with data to uncover hidden insights and solve real-world problems. I am particularly curious about using data to improve the lives of others and make a positive impact on the world.
-<video width="320" height="240" controls>
-  <source src="[video.mp4](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogicmojo.com%2Fdata-science-introduction&psig=AOvVaw0lVNRl__bwM65RItO0Xm_W&ust=1700060784886000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDDvo7iw4IDFQAAAAAdAAAAABAh)" type="video/mp4">
-</video>
+![Data Science Introduction GIF]([images/your_gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogicmojo.com%2Fdata-science-introduction&psig=AOvVaw0lVNRl__bwM65RItO0Xm_W&ust=1700060784886000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDDvo7iw4IDFQAAAAAdAAAAABAh))
+
 
 -
 I have always been fascinated by the power of data💪.When used correctly💡, data can help us to make better decisions, solve complex problems, and create new and innovative products and services. I am excited to be a part of the rapidly growing field of data science and I am eager to learn more about how I can use my skills to make a difference🤹.
