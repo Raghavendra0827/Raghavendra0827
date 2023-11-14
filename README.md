@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi everyone🙋‍♂️, my name is Raghavendra kn and I am a passionate data scientist🧑‍💻. I love working with data to uncover hidden insights and solve real-world problems. I am particularly curious about using data to improve the lives of others and make a positive impact on the world.
-                                             ![image](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/e0997d1d-6d0d-4894-8d86-aa93019056df)
-
+[                                             ![image](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/e0997d1d-6d0d-4894-8d86-aa93019056df)
+](https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif)
 -
 I have always been fascinated by the power of data💪.When used correctly💡, data can help us to make better decisions, solve complex problems, and create new and innovative products and services. I am excited to be a part of the rapidly growing field of data science and I am eager to learn more about how I can use my skills to make a difference🤹.
 I am also curious about the ethical implications of data science. As data becomes more and more powerful, it is important to use it in a responsible and ethical way. I am committed to working with data in a way that is fair, transparent, and beneficial to all.
