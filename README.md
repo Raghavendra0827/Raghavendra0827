@@ -1,7 +1,6 @@
-### Hi there 👋
+![datascience](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/5fc24bfe-23b7-4e40-aa66-a732e6191000)### Hi there 👋
 Hi everyone🙋‍♂️, my name is Raghavendra kn and I am a passionate data scientist🧑‍💻. I love working with data to uncover hidden insights and solve real-world problems. I am particularly curious about using data to improve the lives of others and make a positive impact on the world.
-                ![image](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/2c38ec03-70df-4ad4-bf44-b07deb795f48)
-
+                  ![datascience](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/32cfe5e5-0294-4551-94b5-67b1bb1c78f9)
 
 -
 I have always been fascinated by the power of data💪.When used correctly💡, data can help us to make better decisions, solve complex problems, and create new and innovative products and services. I am excited to be a part of the rapidly growing field of data science and I am eager to learn more about how I can use my skills to make a difference🤹.
