@@ -1,9 +1,8 @@
 ### Hi there 👋
 Hi everyone🙋‍♂️, my name is Raghavendra kn and I am a passionate data scientist🧑‍💻. I love working with data to uncover hidden insights and solve real-world problems. I am particularly curious about using data to improve the lives of others and make a positive impact on the world.
 -
-I have always been fascinated by the power of data💪. 
-                                        ![image](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/5996fdb2-9aac-48fc-b498-15763e937f19)
-                                        When used correctly💡, data can help us to make better decisions, solve complex problems, and create new and innovative products and services. I am excited to be a part of the rapidly growing field of data science and I am eager to learn more about how I can use my skills to make a difference🤹.
+https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif
+I have always been fascinated by the power of data💪.When used correctly💡, data can help us to make better decisions, solve complex problems, and create new and innovative products and services. I am excited to be a part of the rapidly growing field of data science and I am eager to learn more about how I can use my skills to make a difference🤹.
 I am also curious about the ethical implications of data science. As data becomes more and more powerful, it is important to use it in a responsible and ethical way. I am committed to working with data in a way that is fair, transparent, and beneficial to all.
 
 - 🔭 I’m currently working on SQL and ML projects.💡
