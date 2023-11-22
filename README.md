@@ -4,6 +4,7 @@ Hi everyone🙋‍♂️, my name is Raghavendra kn and I am a passionate data s
 I have always been fascinated by the power of data💪.When used correctly💡, data can help us to make better decisions, solve complex problems, and create new and innovative products and services. I am excited to be a part of the rapidly growing field of data science and I am eager to learn more about how I can use my skills to make a difference🤹.
 
 ![data-science-intro](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/1342ead0-2f2e-4036-9ea5-62395c16339e)
+![3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/d88caffc-32f5-4de2-9959-91b78fc97448)
 
 I am also curious about the ethical implications of data science. As data becomes more and more powerful, it is important to use it in a responsible and ethical way. I am committed to working with data in a way that is fair, transparent, and beneficial to all.
 
