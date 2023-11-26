@@ -7,7 +7,7 @@ I have always been fascinated by the power of data💪.When used correctly💡, 
 
 I am also curious about the ethical implications of data science. As data becomes more and more powerful, it is important to use it in a responsible and ethical way. I am committed to working with data in a way that is fair, transparent, and beneficial to all.
 
-- 🔭 I’m currently working on SQL and ML projects.💡
+- 🔭 I'm currently engaged in data science and machine learning projects.💡
 
 As an enthusiastic professional immersed in the realms of data and technology, I thrive at the intersection of SQL and Machine Learning (ML) projects. My expertise lies in navigating complex databases using SQL to extract, manipulate, and manage data effectively. This proficiency forms the backbone of my ability to uncover insights and trends crucial for informed decision-making.
 Simultaneously, my passion for Machine Learning propels me into the realm of predictive analytics and intelligent data-driven solutions. Leveraging ML algorithms, I work on projects aimed at deriving patterns, predictions, and automating decision-making processes.
