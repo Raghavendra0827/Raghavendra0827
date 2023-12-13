@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Raghavendra0827&color=brightgreen)
 
 ### Hi there 👋
 Hi everyone🙋‍♂️, my name is Raghavendra kn and I am a passionate data scientist🧑‍💻. I love working with data to uncover hidden insights and solve real-world problems. I am particularly curious about using data to improve the lives of others and make a positive impact on the world.
