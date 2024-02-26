@@ -13,7 +13,9 @@ I thrive at the intersection of SQL and Machine Learning (ML) projects. My exper
 ## Skills
 - Data Science
 - Machine Learning
+- Expertise in Python Libraries
 - SQL
+- Power BI
 - Predictive Analytics
 - Ethical Data Practices
 
