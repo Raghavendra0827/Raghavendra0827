@@ -5,8 +5,7 @@
 ## Introduction
 Hi there! I'm Raghavendra KN, a passionate data scientist with a drive for leveraging data to create positive impacts. I am fascinated by the potential of data to solve real-world problems and improve lives. With a commitment to ethical data practices, I strive to make a difference through my work.
 
-![Raghavendra KN]![3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/d88caffc-32f5-4de2-9959-91b78fc97448)
-
+![Raghavendra KN](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/d88caffc-32f5-4de2-9959-91b78fc97448)
 
 ## About Me
 I thrive at the intersection of SQL and Machine Learning (ML) projects. My expertise lies in navigating complex databases using SQL to extract, manipulate, and manage data effectively. Simultaneously, my passion for Machine Learning propels me into the realm of predictive analytics and intelligent data-driven solutions.
@@ -20,7 +19,10 @@ I thrive at the intersection of SQL and Machine Learning (ML) projects. My exper
 - Predictive Analytics
 - Ethical Data Practices
 
-![Skills Image]                                         ![image](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/d6d6e157-4970-4bb3-937a-aa210252c04f)
+![Skills Image](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/d6d6e157-4970-4bb3-937a-aa210252c04f)
+
+## Elevator Pitch
+I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the power of data to drive positive change. With expertise in SQL and machine learning, I excel at uncovering insights and building predictive models that inform strategic decision-making. Let's collaborate to turn your data into actionable intelligence.
 
 ## Current Endeavors
 🔭 I'm currently engaged in data science and machine learning projects, where I'm exploring innovative ways to harness the power of AI for predictive analytics and decision-making processes.
