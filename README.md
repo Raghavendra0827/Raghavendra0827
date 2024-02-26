@@ -31,8 +31,9 @@ I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the p
 I'm currently learning at Pes College of Engineering, where I'm expanding my knowledge and skills in data science and machine learning.
 
 ## Get in Touch
-📫 **Email:** raghavendrakn076@gmail.com  
-📞 **Phone:** +91 9353888374  
-🔗 **Website:** [www.raghavendraportfolio.com](https://www.raghavendraportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raghavendra-k-n-612553250)
+[![Email](https://img.shields.io/badge/Email-raghavendrakn076%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavendrakn076@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209353888374-ff69b4?style=for-the-badge&logo=phone&logoColor=white)](tel:+919353888374)
+[![Website](https://img.shields.io/badge/Website-www.raghavendraportfolio.com-ff69b4?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.raghavendraportfolio.com)
 
 Feel free to reach out to discuss ML projects or anything related to data science!
