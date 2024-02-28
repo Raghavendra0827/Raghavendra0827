@@ -18,9 +18,6 @@ I thrive at the intersection of SQL and Machine Learning (ML) projects. My exper
 - Power BI
 - Predictive Analytics
 - Ethical Data Practices
-
-![Skills Image](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/d6d6e157-4970-4bb3-937a-aa210252c04f)
-
 ## Elevator Pitch
 I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the power of data to drive positive change. With expertise in SQL and machine learning, I excel at uncovering insights and building predictive models that inform strategic decision-making. Let's collaborate to turn your data into actionable intelligence.
 
