@@ -5,8 +5,7 @@
 ## Introduction
 Hi there! I'm Raghavendra KN, a passionate data scientist with a drive for leveraging data to create positive impacts. I am fascinated by the potential of data to solve real-world problems and improve lives. With a commitment to ethical data practices, I strive to make a difference through my work.
 
-![image](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/4617f165-b18b-42c4-a1c5-867d21702c62)
-
+![1_TlbU0F-waQf7_zOfhUNldQ](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/5a4d81bd-d7e8-4e34-9229-dbfb3cc5c2ac)
 
 ## About Me
 I thrive at the intersection of SQL and Machine Learning (ML) projects. My expertise lies in navigating complex databases using SQL to extract, manipulate, and manage data effectively. Simultaneously, my passion for Machine Learning propels me into the realm of predictive analytics and intelligent data-driven solutions.
