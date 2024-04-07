@@ -11,10 +11,12 @@ Hi there! I'm Raghavendra KN, a passionate data scientist with a drive for lever
 I thrive at the intersection of SQL and Machine Learning (ML) projects. My expertise lies in navigating complex databases using SQL to extract, manipulate, and manage data effectively. Simultaneously, my passion for Machine Learning propels me into the realm of predictive analytics and intelligent data-driven solutions.
 
 ## <span style="color:orange">Skills</span>
+- SQL
+- Python
+- Expertise in Python Libraries
 - Data Science
 - Machine Learning
-- Expertise in Python Libraries
-- SQL
+- Deep Learning
 - Power BI
 - Predictive Analytics
 - Ethical Data Practices
