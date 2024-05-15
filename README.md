@@ -37,4 +37,3 @@ I'm currently learning at Pes College of Engineering, where I'm expanding my kno
 [![Website](https://img.shields.io/badge/Website-www.raghavendraportfolio.com-ff69b4?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.raghavendraportfolio.com)
 
 Feel free to reach out to discuss ML projects or anything related to data science!
-(https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
