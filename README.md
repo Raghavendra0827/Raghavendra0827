@@ -1,9 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Raghavendra0827&color=brightgreen)
 
-# <span style="color:blue">Raghavendra KN - Data Scientist Portfolio</span>
+# <span style="color:blue">Raghavendra KN - Data Scientist</span>
 
 ## <span style="color:orange">Introduction</span>
-Hi there! I'm Raghavendra KN, a passionate data scientist with a drive for leveraging data to create positive impacts. I am fascinated by the potential of data to solve real-world problems and improve lives. With a commitment to ethical data practices, I strive to make a difference through my work.
+I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the power of data to drive positive change. With expertise in SQL and machine learning, I excel at uncovering insights and building predictive models that inform strategic decision-making. Let's collaborate to turn your data into actionable intelligence.
 
 ![1_TlbU0F-waQf7_zOfhUNldQ](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/5a4d81bd-d7e8-4e34-9229-dbfb3cc5c2ac)
 
@@ -20,9 +20,6 @@ I thrive at the intersection of SQL and Machine Learning (ML) projects. My exper
 - Power BI
 - Predictive Analytics
 - Ethical Data Practices
-
-## <span style="color:orange">Elevator Pitch</span>
-I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the power of data to drive positive change. With expertise in SQL and machine learning, I excel at uncovering insights and building predictive models that inform strategic decision-making. Let's collaborate to turn your data into actionable intelligence.
 
 ## <span style="color:orange">Current Endeavors</span>
 🔭 I'm currently engaged in data science and machine learning projects, where I'm exploring innovative ways to harness the power of AI for predictive analytics and decision-making processes.
