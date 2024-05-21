@@ -3,9 +3,11 @@
 # <span style="color:blue">Raghavendra KN - Data Scientist</span>
 
 ## <span style="color:orange">Introduction</span>
-I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the power of data to drive positive change. With expertise in SQL and machine learning, I excel at uncovering insights and building predictive models that inform strategic decision-making. Let's collaborate to turn your data into actionable intelligence.
 
 ![Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image (1)](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/5f484961-d9ae-4648-a845-4a306a088a8a)
+
+I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the power of data to drive positive change. With expertise in SQL and machine learning, I excel at uncovering insights and building predictive models that inform strategic decision-making. Let's collaborate to turn your data into actionable intelligence.
+
 
 
 ## <span style="color:orange">About Me</span>
