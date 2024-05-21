@@ -5,7 +5,8 @@
 ## <span style="color:orange">Introduction</span>
 I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the power of data to drive positive change. With expertise in SQL and machine learning, I excel at uncovering insights and building predictive models that inform strategic decision-making. Let's collaborate to turn your data into actionable intelligence.
 
-![1_TlbU0F-waQf7_zOfhUNldQ](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/5a4d81bd-d7e8-4e34-9229-dbfb3cc5c2ac)
+![Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image (1)](https://github.com/Raghavendra0827/Raghavendra0827/assets/135142090/5f484961-d9ae-4648-a845-4a306a088a8a)
+
 
 ## <span style="color:orange">About Me</span>
 I thrive at the intersection of SQL and Machine Learning (ML) projects. My expertise lies in navigating complex databases using SQL to extract, manipulate, and manage data effectively. Simultaneously, my passion for Machine Learning propels me into the realm of predictive analytics and intelligent data-driven solutions.
