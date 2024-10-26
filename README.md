@@ -10,7 +10,7 @@ I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the p
 
 ## My Project
 
-This project is hosted on Hugging Face Spaces. You can view it [Portfolio](https://huggingface.co/spaces/Raghavendra0827/Projects).
+This project is hosted on Hugging Face Spaces. You can view it [Portfolio 👁](https://huggingface.co/spaces/Raghavendra0827/Projects).
 
 
 
