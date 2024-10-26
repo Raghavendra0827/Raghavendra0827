@@ -8,7 +8,9 @@
 
 I'm Raghavendra KN, a dedicated data scientist passionate about harnessing the power of data to drive positive change. With expertise in SQL and machine learning, I excel at uncovering insights and building predictive models that inform strategic decision-making. Let's collaborate to turn your data into actionable intelligence.
 
-![My Project Portfolio](https://huggingface.co/spaces/Raghavendra0827/Projects)
+# My Project
+
+This project is hosted on Hugging Face Spaces. You can view it [here](https://huggingface.co/spaces/Raghavendra0827/Projects).
 
 
 
